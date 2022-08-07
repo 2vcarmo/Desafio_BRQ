@@ -1,0 +1,14 @@
+/*Globais*/
+@import url(./global/root.css);
+@import url(./global/reset.css);
+@import url(./global/body.css);
+@import url(./global/header.css);
+@import url(./global/footer.css);
+
+/*Home*/
+@import url(./home/home.css);
+@import url(./home/responsividade.css);
+
+/*Contato*/
+@import url(./contato/contato.css);
+@import url(./contato/responsividade.css);

@@ -1,0 +1,29 @@
+/*cores*/
+@import url(./cores.css);
+
+
+header{
+    width: 1200px;
+    display: flex;
+    justify-content: space-between;
+    margin:auto;
+    margin-top: 71px;
+
+}
+header img{
+    height: 100%;
+}
+header nav{
+    width: 100px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5vh;
+}
+header nav a{
+    font-size: 14px;
+    text-decoration: none;
+    line-height: 16px;
+    color: var(--preto);
+}
+
+
